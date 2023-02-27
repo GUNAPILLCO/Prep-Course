@@ -1,2 +1,3 @@
 # Prep-Course
-Repositorio de prueba del módulo 2 
+Este proyecto es una prueba para ver como crear un repositorio. 
+Modificado con nuestro nombre Gustavo Uñapillco 
